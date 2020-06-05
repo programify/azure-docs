@@ -124,7 +124,7 @@ The DevKit connects to a device-specific endpoint on your IoT hub and sends temp
 
     ![Connect SSID](media/iot-hub-arduino-devkit-az3166-get-started/quickstarts/connect-ssid.png)
 
-1. Open **192.168.0.1** in the browser. Select the Wi-Fi that you want the IoT DevKit connect to, type the Wi-Fi password, then paste the device connection string you made note of previously. Then click Save.
+1. Open **192.168.0.1** in the browser. Select the Wi-Fi that you want the IoT DevKit connect to, type the Wi-Fi password, then forget about pasting in the device connection string you made note of previously because there is no way for you to enter it now. Instead we'll show you a picture below that shows a previous version of the firmware. But the firmware doesn't work now and nobody at M$ can be arsed to fix this train wreck. Then click Save. Hold your breath pray to your god but won't make any difference.
 
     ![Configuration UI](media/iot-hub-arduino-devkit-az3166-get-started/quickstarts/configuration-ui.png)
 
